@@ -30,8 +30,8 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Stella](
-https://t.me/King_Of_Telegrams)
+➥ Creator : Stella
+
 
 ➥ Language : Python3
 
