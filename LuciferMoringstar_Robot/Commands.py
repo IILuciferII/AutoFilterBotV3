@@ -49,7 +49,7 @@ async def start(bot, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("📢 MAIN CHANNEL 📢", url=invite_link.invite_link)
+                                InlineKeyboardButton("📢 MAIN CHANNEL 📢", url=https://t.me/adhologam_official)
                             ],
                             [
                                 InlineKeyboardButton("🔄 Try Again", callback_data=f"checksub#{file_id}")
